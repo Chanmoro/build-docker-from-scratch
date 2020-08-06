@@ -1,10 +1,6 @@
 # build-docker-from-scratch
 Build docker from scratch by Python!
 
-References: 
-  - https://github.com/Fewbytes/rubber-docker
-  - https://github.com/tonybaloney/mocker
-
 # Requirements
 - Vagrant
 - Virtualbox
@@ -69,3 +65,8 @@ $ python3 run.py busybox sh
 
 ## NOTE
 You should execute there command as root.
+
+### References
+- https://github.com/Fewbytes/rubber-docker
+- https://github.com/tonybaloney/mocker
+
